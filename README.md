@@ -1,3 +1,2 @@
 Hello, Git!
-This is a new line. HELLO,EMDOOR.
-
+This is a new line.
