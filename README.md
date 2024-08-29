@@ -1,3 +1,3 @@
 Hello, Git!
-NEW
 This is a new line.
+2024年
